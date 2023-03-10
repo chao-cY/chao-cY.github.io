@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -32,7 +32,7 @@ Work experience
 
 Publications
 ======
- You can find my articles on <u><a href="https://scholar.google.com/citations?user=6w1u0fAAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.</u>
+ You can find my articles on <u><a href="https://scholar.google.com/citations?user=6w1u0fAAAAAJ&hl=en&authuser=1">Google Scholar profile</a>.</u>
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
