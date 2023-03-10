@@ -32,7 +32,7 @@ Other experience
 
 Publications
 ======
- You can find my articles on <a href="https://scholar.google.com/citations?user=6w1u0fAAAAAJ&hl=en&authuser=1">Google Scholar profile</a>.
+ You can find my papers on <a href="https://scholar.google.com/citations?user=6w1u0fAAAAAJ&hl=en&authuser=1">Google Scholar profile</a>.
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
