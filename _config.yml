@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chao Yin / Academic pages"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chao Yin"
 description              : &description "personal description"
 url                      : https://chao-cy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+  facebook               :
   username               :
   app_id                 :
   publisher              :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Chao Yin"
+  avatar           : "ChaoYin.png"
+  bio              : "I'm a PhD candidate at the Vrije University"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=6w1u0fAAAAAJ&hl=en&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/chao-cY"
   google_plus      :
   keybase          :
   instagram        :
