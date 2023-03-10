@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering, Chongqing University of Technology, 2015-2019
-* M.S. in Computer Science, Chongqing University of Technology, 2019-2022, supervisor: Zheng Yang
-* Ph.D in Computer Science, Vrije University, 2022-now, supervisors: Marten van Dijk and Massacci Fabio
+* M.S. in Computer Science, Chongqing University of Technology, 2019-2022, Supervisor: Zheng Yang
+* Ph.D in Computer Science, Vrije University, 2022-now, Supervisors: Marten van Dijk and Massacci Fabio
 
 Other experience
 ======
