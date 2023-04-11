@@ -39,7 +39,7 @@ Publications
 [PDF](http://chao-cy.github.io/files/CPSS21-LightWeight.pdf)
 
 * Zheng Yang, Tien Tuan Anh Dinh, **Chao Yin**, Yingying Yao, Dianshi Yang, Xiaolin Chang, and Jianying Zhou. 2022. LARP: A Lightweight Auto-Refreshing Pseudonym Protocol for V2X. In Proceedings of the 27th ACM on Symposium on Access Control Models and Technologies (SACMAT '22). Association for Computing Machinery, New York, NY, USA, 49–60. https://doi.org/10.1145/3532105.3535027
-[PDF](http://chao-cy.github.io/files/SACMAC22-LARP.pdf)
+[PDF](http://chao-cy.github.io/files/SACMAT22-LARP.pdf)
   
 <!-- Talks
 ======
