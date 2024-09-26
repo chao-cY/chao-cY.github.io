@@ -11,23 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Chongqing University of Technology, 2015-2019
-* M.S. in Computer Science, Chongqing University of Technology, 2019-2022, Supervisor: <a href="https://scholar.google.com/citations?user=X6csOLgAAAAJ&hl=en&authuser=1">Zheng Yang</a>
+
 * Ph.D in Computer Science, Vrije University and Centrum Wiskunde & Informatica (CWI Amsterdam), 2022-now, Supervisors: <a href="https://scholar.google.com/citations?hl=en&user=byCWPiwAAAAJ&view_op=list_works&sortby=pubdate">Marten van Dijk</a>, <a href="https://fabiomassacci.github.io/">Fabio Massacci</a> and <a href="https://chenglujin.github.io/">Chenglu Jin</a>
+* M.S. in Computer Science, Chongqing University of Technology, 2019-2022, Supervisor: <a href="https://scholar.google.com/citations?user=X6csOLgAAAAJ&hl=en&authuser=1">Zheng Yang</a>
+* B.S. in Software Engineering, Chongqing University of Technology, 2015-2019
 
 Other experience
 ======
-* 2020.5 - 2020.11: Visiting Student
-  * Singapore University of Technology and Design
-  * Supervisor: <a href="https://scholar.google.com.au/citations?hl=en&user=T-Uf3dYAAAAJ&view_op=list_works&sortby=pubdate">Jianying Zhou</a>
+* 2024.8: Visiting student
+  * Tsinghua University
+  * Supervisor: <a href="https://fififish.github.io/sisiduan/">Sisi Duan</a>
 
 * 2024.7 - 2024.8: Internship
   * Yangtze Delta Region Institute of Tsinghua University, Zhejiang and Shanghai Jiao Tong University
   * Supervisor: <a href="https://bchainzhang.github.io/">Haibin Zhang</a> and <a href="https://scholar.google.com.hk/citations?user=ZFM3vykAAAAJ&hl=en">Shengli Liu</a>
 
-* 2024.8: Visiting student
-  * Tsinghua University
-  * Supervisor: <a href="https://fififish.github.io/sisiduan/">Sisi Duan</a>
+* 2020.5 - 2020.11: Visiting Student
+  * Singapore University of Technology and Design
+  * Supervisor: <a href="https://scholar.google.com.au/citations?hl=en&user=T-Uf3dYAAAAJ&view_op=list_works&sortby=pubdate">Jianying Zhou</a>
+
 
 <!-- Skills
 ======
