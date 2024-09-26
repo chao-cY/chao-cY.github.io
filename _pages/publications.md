@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* Chenglu Jin, **Chao Yin(co-first)**, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. 2024. PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. ACM Conference on Computer and Communications Security (CCS’24).
+
 * Zheng Yang, **Chao Yin(co-first and corresponding author)**, Junming Ke, Tien Tuan Anh Dinh, and Jianying Zhou. 2022. If You Can’t Beat Them, Pay Them: Bitcoin Protection Racket is Profitable. In Proceedings of the 38th Annual Computer Security Applications Conference (ACSAC '22). Association for Computing Machinery, New York, NY, USA, 727–741. https://doi.org/10.1145/3564625.3567983 
 [\[PDF\]](http://chao-cy.github.io/files/ACSAC22-FWAP.pdf) [\[Slides\]](http://chao-cy.github.io/files/ACSAC22-FWAP-slides.pdf) 
 

@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Software Engineering, Chongqing University of Technology, 2015-2019
 * M.S. in Computer Science, Chongqing University of Technology, 2019-2022, Supervisor: <a href="https://scholar.google.com/citations?user=X6csOLgAAAAJ&hl=en&authuser=1">Zheng Yang</a>
-* Ph.D in Computer Science, Vrije University, 2022-now, Supervisors: <a href="https://scholar.google.com/citations?hl=en&user=byCWPiwAAAAJ&view_op=list_works&sortby=pubdate">Marten van Dijk</a> and <a href="https://fabiomassacci.github.io/">Fabio Massacci</a>
+* Ph.D in Computer Science, Vrije University, 2022-now, Supervisors: <a href="https://scholar.google.com/citations?hl=en&user=byCWPiwAAAAJ&view_op=list_works&sortby=pubdate">Marten van Dijk</a>, <a href="https://fabiomassacci.github.io/">Fabio Massacci</a> and <a href="https://chenglujin.github.io/">Chenglu Jin</a>
 
 Other experience
 ======
@@ -32,6 +32,8 @@ Other experience
 
 Publications
 ======
+* Chenglu Jin, **Chao Yin(co-first)**, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. 2024. PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. ACM Conference on Computer and Communications Security (CCS’24).
+
 * Zheng Yang, **Chao Yin(co-first and corresponding author)**, Junming Ke, Tien Tuan Anh Dinh, and Jianying Zhou. 2022. If You Can’t Beat Them, Pay Them: Bitcoin Protection Racket is Profitable. In Proceedings of the 38th Annual Computer Security Applications Conference (ACSAC '22). Association for Computing Machinery, New York, NY, USA, 727–741. https://doi.org/10.1145/3564625.3567983 
 [PDF](http://chao-cy.github.io/files/ACSAC22-FWAP.pdf)
 
