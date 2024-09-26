@@ -20,7 +20,15 @@ Other experience
 * 2020.5 - 2020.11: Visiting Student
   * Singapore University of Technology and Design
   * Supervisor: <a href="https://scholar.google.com.au/citations?hl=en&user=T-Uf3dYAAAAJ&view_op=list_works&sortby=pubdate">Jianying Zhou</a>
-  
+
+* 2024.7 - 2024.8: Internship
+  * Yangtze Delta Region Institute of Tsinghua University, Zhejiang and Shanghai Jiao Tong University
+  * Supervisor: <a href="https://bchainzhang.github.io/">Haibin Zhang</a> and <a href="https://scholar.google.com.hk/citations?user=ZFM3vykAAAAJ&hl=en">Shengli Liu</a>
+
+* 2024.8: Visiting student
+  * Tsinghua University
+  * Supervisor: <a href="https://fififish.github.io/sisiduan/">Sisi Duan</a>
+
 <!-- Skills
 ======
 * Skill 1
