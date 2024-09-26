@@ -19,7 +19,7 @@ Other experience
 ======
 * 2020.5 - 2020.11: Visiting Student
   * Singapore University of Technology and Design
-  * Supervisor: <a href="https://scholar.google.com.au/citations?hl=en&user=T-Uf3dYAAAAJ&view_op=list_works&sortby=pubdate">Zhou Jianying</a>
+  * Supervisor: <a href="https://scholar.google.com.au/citations?hl=en&user=T-Uf3dYAAAAJ&view_op=list_works&sortby=pubdate">Jianying Zhou</a>
   
 <!-- Skills
 ======
