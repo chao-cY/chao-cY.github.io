@@ -1,7 +1,7 @@
 ---
 title: "If You Can’t Beat Them, Pay Them: Bitcoin Protection Racket is Profitable"
 collection: Publications
-# permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ACSAC22
 # excerpt: ''
 date: 2022-12-05
 # venue: ''
