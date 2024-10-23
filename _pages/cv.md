@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science, Vrije University and Centrum Wiskunde & Informatica (CWI Amsterdam), 2022.10-now, Supervisors: <a href="https://scholar.google.com/citations?hl=en&user=byCWPiwAAAAJ&view_op=list_works&sortby=pubdate">Marten van Dijk</a>, <a href="https://fabiomassacci.github.io/">Fabio Massacci</a> and <a href="https://chenglujin.github.io/">Chenglu Jin</a>
+* Ph.D in Computer Science, Vrije University and Centrum Wiskunde & Informatica (CWI Amsterdam), 2022.10-now, Supervisors: <a href="https://fabiomassacci.github.io/">Fabio Massacci</a>, <a href="https://scholar.google.com/citations?hl=en&user=byCWPiwAAAAJ&view_op=list_works&sortby=pubdate">Marten van Dijk</a> and <a href="https://chenglujin.github.io/">Chenglu Jin</a>
 * M.S. in Computer Science, Chongqing University of Technology, 2019-2022, Supervisor: <a href="https://scholar.google.com/citations?user=X6csOLgAAAAJ&hl=en&authuser=1">Zheng Yang</a>
 * B.S. in Software Engineering, Chongqing University of Technology, 2015-2019
 
