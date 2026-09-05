@@ -56,6 +56,10 @@ Publications
 
 * Zheng Yang, Tien Tuan Anh Dinh, **Chao Yin**, Yingying Yao, Dianshi Yang, Xiaolin Chang, and Jianying Zhou. 2022. LARP: A Lightweight Auto-Refreshing Pseudonym Protocol for V2X. In Proceedings of the 27th ACM on Symposium on Access Control Models and Technologies (SACMAT '22). Association for Computing Machinery, New York, NY, USA, 49–60. https://doi.org/10.1145/3532105.3535027
 [PDF](http://chao-cy.github.io/files/SACMAT22-LARP.pdf)
+
+Talks
+======
+* Apr 2026: Oral presentation, NWO ICT.OPEN 2026. Presented *PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion With Guaranteed Output Delivery* at The Art of Security and Trust track, De Doelen, Rotterdam.
   
 <!-- Talks
 ======
